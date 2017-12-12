@@ -12,7 +12,8 @@ tool makes use of mock to achieve this.
 
 .. contents:: Table of Contents
 
-License
+
+	      License
 =======
 autospec is available under the terms of the GPL, version 3.0
 
